@@ -1,0 +1,5 @@
+CREATE TABLE Currency (
+  code varchar(20) NOT NULL,
+  name_TW varchar(20),
+  PRIMARY KEY (code)
+); 
